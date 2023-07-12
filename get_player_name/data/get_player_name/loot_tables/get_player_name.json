@@ -19,7 +19,7 @@
               "function": "minecraft:set_name",
               "entity": "this",
               "name": {
-                "nbt": "this",
+                "nbt": "String",
                 "storage": "player_name:"
               }
             }
